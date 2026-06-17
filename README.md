@@ -74,6 +74,7 @@ devpilot
 │   ├── eslint.config.js
 │   └── .gitignore
 │
+├── images/
 ├── .gitignore
 └── README.md
 ```
@@ -149,11 +150,9 @@ http://localhost:5000
 
 ## Overview
 
-```markdown
 ![Login](images/image.png)
 ![Register](images/image-1.png)
 ![Chat](images/image-2.png)
-```
 
 ## Future Enhancements
 
