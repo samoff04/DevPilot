@@ -17,6 +17,12 @@ DevPilot is a full-stack AI-powered coding assistant built with the MERN stack. 
 * RESTful backend architecture
 * Modular and scalable folder structure
 
+## Overview
+
+![Login](images/image.png)
+![Register](images/image-1.png)
+![Chat](images/image-2.png)
+
 ## Tech Stack
 
 ### Frontend
@@ -148,22 +154,13 @@ http://localhost:5000
 | DELETE | /api/chat/:id |
 | POST   | /api/chat/ask |
 
-## Overview
-
-![Login](images/image.png)
-![Register](images/image-1.png)
-![Chat](images/image-2.png)
-
 ## Future Enhancements
 
-* Streaming AI responses
-* Copy code button
 * Chat renaming
 * Profile management
 * OpenRouter fallback support
 * Conversation search
 * Theme customization
-* Deployment with Vercel and Render
 
 ## Security
 
